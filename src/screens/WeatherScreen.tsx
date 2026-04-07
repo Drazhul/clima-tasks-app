@@ -11,6 +11,8 @@ const WeatherScreen: React.FC = () => {
       
       <View style={styles.tasksContainer}>
         <Text style={styles.sectionTitle}>Tareas Pendientes</Text>
+        <Text>Sesion de estudio</Text>
+        
       </View>
     </SafeAreaView>
   );
